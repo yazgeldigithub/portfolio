@@ -26,7 +26,7 @@ class About extends Component {
                 <span style={{ cursor: "auto" }}>
                   <img
                     height="250px"
-                    src="https://lh3.googleusercontent.com/QTOloGOz3GC5tAuAaRCc5WuTQrxwjANoIAUmWZcVLuEdvGAf-To_vRzFPqEBROCActDp201ZNg8juIdvI8bEM-1uidIiuK6j1ZKsXWjztIpADpBMqpMo46rJq0y3khUp4OGDCn1bpFYGD6znV1Fcfme9qeUH3LsTtToWemi7x6WZN8CVWvN5jR_59e1sHeQuWXsJDDDOUljdMNzIhmhdfk0WOpJVTuZexvakHR84qsSV3PLJL9GE0RwByeOpgSG5BWVArV6w9HdG8rOWnw5JND9tJ9lZljr4FjVlOnwKkTRieDrEa-MeKOikcT9E9mG-Zz3o62_mrA5NxOqCsbifm3nniYok9VCz0ufsZdbWFOJ2nZGY8AYnY-3sWkc7s7ZtHKKPIsUyFvfGKSMp8HBfkoXh4M_FydRAvGvik2XiqJZ6AjBhRTCKDaaih0_mqfNfQbqSixlZUvRMw1FIpxbAjwj7VNGa8TnYQC_CMXZ8_9Pt-6v9y7WrJ8sy6b14gHTKyoMz3o7vKzPFLofz9sH9foPtOpdCI_bbiGOi6DnYPBqMFplCpmVFnmOUbs2fycBi8MdyK1I1v4jOcPOncv-PFdyMeChay61qoYYPoz2vYkrd2FGiNn_ZNCgOUDbWkAsZZFnswnNyoT7uYvp3q4NoAdeXYTTpVU-_h5nurdR4zwZtH17s5gtIuQU3aPt50nQ8jrhpxgeDFpJyg-JijCCZ20Xu=w800-h1068-no?authuser=0"
+                    src="https://i.imgur.com/mH1GoRA.jpg"
                     alt="Avatar placeholder"
                   />
                   <Icon
