@@ -27,7 +27,7 @@ class About extends Component {
                   <img
                     height="250px"
                     src="https://i.imgur.com/mH1GoRA.jpg"
-                    alt="Avatar placeholder"
+                    alt="Yazgeldi's pic"
                   />
                   <Icon
                     icon={javascriptIcon}
