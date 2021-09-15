@@ -18,7 +18,7 @@
         "https://i.imgur.com/trhRpso.png",
         "https://i.imgur.com/mvn6yRY.png"
       ],
-      "url": "https://github.com/yazgeldigithub/Omnifood",
+      "url": "https://omnifood-three.vercel.app/",
       "technologies": [
         {
           "class": "devicon-html5-plain",
@@ -35,14 +35,14 @@
       ]
     },
     {
-      "title": "Smurf Village Database",
+      "title": "Dictionary",
       "startDate": "2020",
       "description": "One of the expanded application I had opportunity to work with. I've learned many technologies like: state management, the reducer pattern, and redux.",
       "images": [
-        "https://i.imgur.com/eO6BV1H.png",
-        "https://i.imgur.com/MCD37q1.png"
+        "https://i.imgur.com/S0NjH0C.jpg",
+        "https://i.imgur.com/WhUfW7B.jpg"
       ],
-      "url": "https://github.com/yazgeldigithub/web-sprint-challenge-advanced-state-management/tree/yazgeldi-hojayev",
+      "url": "https://dictionary-phi.vercel.app/",
       "technologies": [
         {
           "class": "devicon-react-original",
