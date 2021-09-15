@@ -55,14 +55,14 @@
       ]
     },
     {
-      "title": "React Plants",
+      "title": "Quiz App",
       "startDate": "2021",
       "description": "I had an opportunity to develop front-end implementation for app that will fetch data from an internal server using a class component, displaying that data, using a custom hook, and writing tests for that app. This was one of my favorite projects in React framework.",
       "images": [
-        "https://i.imgur.com/uJYXYdn.png",
-        "https://i.imgur.com/A7yP9Un.png"
+        "https://i.imgur.com/XW6SThr.png",
+        "https://i.imgur.com/QytMnYp.png"
       ],
-      "url": "https://github.com/yazgeldigithub/web-sprint-challenge-advanced-react/tree/yazgeldi-hojayev",
+      "url": "https://quiz-app-jet-six.vercel.app/",
       "technologies": [
         {
           "class": "devicon-javascript-plain",
