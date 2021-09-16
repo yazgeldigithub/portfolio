@@ -35,7 +35,7 @@
       ]
     },
     {
-      "title": "Base de datos de Smurf Village",
+      "title": "Diccionario",
       "startDate": "2020",
       "description": "Una de las aplicaciones expandidas con las que tuve la oportunidad de trabajar. He aprendido muchas tecnologías como: gestión de estado, patrón reductor y redux.",
       "images": [
@@ -55,7 +55,7 @@
       ]
     },
     {
-      "title": "React Plantas",
+      "title": "Aplicación de prueba",
       "startDate": "2021",
       "description": "Tuve la oportunidad de desarrollar una implementación de front-end para una aplicación que obtendrá datos de un servidor interno usando un componente de clase, mostrando esos datos, usando un enlace personalizado y escribiendo pruebas para esa aplicación. Este fue uno de mis proyectos favoritos en el marco de React.",
       "images": [
