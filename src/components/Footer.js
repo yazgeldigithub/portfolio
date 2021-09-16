@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import emailjs from "emailjs-com";
+import Button from "react-bootstrap/Button";
 
 class Footer extends Component {
   render() {
@@ -89,7 +90,15 @@ class Footer extends Component {
         </div>
 
         <div className="col-md-12">
-          <div className="social-links">{networks}</div>
+          <div className="social-links">
+            {networks}{" "}
+            <a
+              href="https://drive.google.com/file/d/1IwpSlpPu3RZ09DZ3M0UNW3xYYGHwvFk4/view"
+              target="_blank"
+            >
+              <Button variant="outline-primary">Resume</Button>{" "}
+            </a>
+          </div>
 
           <div className="copyright py-4 text-center">
             <div className="container">
