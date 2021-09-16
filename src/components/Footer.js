@@ -16,6 +16,7 @@ class Footer extends Component {
       });
     }
 
+    //email.js
     function sendEmail(e) {
       e.preventDefault();
 
