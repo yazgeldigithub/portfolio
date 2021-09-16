@@ -20,7 +20,7 @@ class Footer extends Component {
 
       emailjs
         .sendForm(
-          "gmail",
+          "service_ucgbebk",
           "yaz_mgadmy7",
           e.target,
           "user_XvfokkQEtC99tOOfHO4zn"
