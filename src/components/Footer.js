@@ -93,10 +93,7 @@ class Footer extends Component {
         <div className="col-md-12">
           <div className="social-links">
             {networks}{" "}
-            <a
-              href="https://drive.google.com/file/d/1IwpSlpPu3RZ09DZ3M0UNW3xYYGHwvFk4/view"
-              target="_blank"
-            >
+            <a href="https://drive.google.com/file/d/1IwpSlpPu3RZ09DZ3M0UNW3xYYGHwvFk4/view">
               <Button variant="outline-primary">Resume</Button>{" "}
             </a>
           </div>
