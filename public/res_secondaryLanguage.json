@@ -18,7 +18,7 @@
         "https://i.imgur.com/trhRpso.png",
         "https://i.imgur.com/mvn6yRY.png"
       ],
-      "url": "https://github.com/yazgeldigithub/Omnifood",
+      "url": "https://omnifood-three.vercel.app/",
       "technologies": [
         {
           "class": "devicon-html5-plain",
@@ -39,10 +39,10 @@
       "startDate": "2020",
       "description": "Una de las aplicaciones expandidas con las que tuve la oportunidad de trabajar. He aprendido muchas tecnologías como: gestión de estado, patrón reductor y redux.",
       "images": [
-        "https://i.imgur.com/eO6BV1H.png",
-        "https://i.imgur.com/MCD37q1.png"
+        "https://i.imgur.com/S0NjH0C.jpg",
+        "https://i.imgur.com/WhUfW7B.jpg"
       ],
-      "url": "https://github.com/yazgeldigithub/web-sprint-challenge-advanced-state-management/tree/yazgeldi-hojayev",
+      "url": "https://dictionary-phi.vercel.app/",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -59,10 +59,10 @@
       "startDate": "2021",
       "description": "Tuve la oportunidad de desarrollar una implementación de front-end para una aplicación que obtendrá datos de un servidor interno usando un componente de clase, mostrando esos datos, usando un enlace personalizado y escribiendo pruebas para esa aplicación. Este fue uno de mis proyectos favoritos en el marco de React.",
       "images": [
-        "https://i.imgur.com/uJYXYdn.png",
-        "https://i.imgur.com/A7yP9Un.png"
+        "https://i.imgur.com/iUCiiOU.jpg",
+        "https://i.imgur.com/StvMax3.jpg"
       ],
-      "url": "https://github.com/yazgeldigithub/web-sprint-challenge-advanced-react/tree/yazgeldi-hojayev",
+      "url": "https://quiz-app-jet-six.vercel.app/",
       "technologies": [
         {
           "class": "devicon-javascript-plain",
