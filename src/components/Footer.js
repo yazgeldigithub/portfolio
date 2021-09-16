@@ -41,7 +41,9 @@ class Footer extends Component {
     return (
       <footer>
         <div>
-          <p className="footerSubmit">Let's talk:</p>
+          <div>
+            <p className="footerSubmit">Let's talk:</p>
+          </div>
           <div className="container">
             <form onSubmit={sendEmail}>
               <div className="row pt-5 mx-auto">
