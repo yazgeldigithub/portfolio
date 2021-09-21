@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import emailjs from "emailjs-com";
 import Button from "react-bootstrap/Button";
+import swal from "sweetalert";
 
 class Footer extends Component {
   render() {
@@ -35,6 +36,11 @@ class Footer extends Component {
             console.log(error.text);
           }
         );
+      swal(
+        "Thank you for contacting!",
+        "I'll get back to you soon!",
+        "success"
+      );
       e.target.reset();
     }
 
