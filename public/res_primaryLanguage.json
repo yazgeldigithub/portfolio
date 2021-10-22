@@ -99,23 +99,26 @@
       ]
     },
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "2.2018 - 3.2019",
+      "company": "Coolsis Technologies",
+      "title": "Front End Developer",
+      "years": "2.2018 - Present",
       "mainTech": ["Work"],
-      "technologies": ["REST API", "JSX", "JavaScript", "React"]
-    },
-    {
-      "company": "Serros Solutions",
-      "title": "Front-End Developer",
-      "years": "04.2019- present",
-      "mainTech": ["Work"],
-      "technologies": ["REST API", "JSX", "JavaScript", "React"]
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "ES6",
+        "React",
+        "JEST",
+        "Jira",
+        "Git",
+        "Visual Studio Code"
+      ]
     },
     {
       "company": "The University Of Texas in Austin",
       "title": "Master's in Computer Science",
-      "years": "09.2021 - 09.2023",
+      "years": "03.2023 - 03.2024",
       "mainTech": ["Education"],
       "technologies": ["Machine Learning..."]
     }
