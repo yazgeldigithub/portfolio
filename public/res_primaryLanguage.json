@@ -99,9 +99,26 @@
       ]
     },
     {
-      "company": "Coolsis Technologies",
+      "company": "Big Commerce",
       "title": "Front End Developer",
-      "years": "2.2018 - Present",
+      "years": "1.2018 - 2.2019",
+      "mainTech": ["Work"],
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "ES6",
+        "React",
+        "JEST",
+        "Jira",
+        "Git",
+        "Visual Studio Code"
+      ]
+    },
+    {
+      "company": "Wells Fargo",
+      "title": "Front End Developer",
+      "years": "3.2019 - Present",
       "mainTech": ["Work"],
       "technologies": [
         "HTML5",
