@@ -102,7 +102,7 @@ class Footer extends Component {
         <div className="col-md-12">
           <div className="social-links">
             {networks}{" "}
-            <a href="https://drive.google.com/file/d/1IwpSlpPu3RZ09DZ3M0UNW3xYYGHwvFk4/view">
+            <a href="https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf">
               <Button>Resume</Button>
             </a>
           </div>
