@@ -11,14 +11,14 @@
   },
   "projects": [
     {
-      "title": "Omnifood",
-      "startDate": "2017",
-      "description": "Personal project for study subject. I've learned a lot about web developement process by working on this project!",
+      "title": "Memories",
+      "startDate": "2021",
+      "description": "MERN app. I've learned a lot about web developement process by working on this project!",
       "images": [
-        "https://i.imgur.com/trhRpso.png",
-        "https://i.imgur.com/mvn6yRY.png"
+        "https://i.imgur.com/11GeaWQ.png",
+        "https://i.imgur.com/StLiw8F.png"
       ],
-      "url": "https://omnifood-three.vercel.app/",
+      "url": "https://memories5.netlify.app/",
       "technologies": [
         {
           "class": "devicon-html5-plain",
@@ -31,6 +31,30 @@
         {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJS"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        },
+        {
+          "class": "devicon-materialui-plain",
+          "name": "MUI"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-redux-original colored",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "Express"
         }
       ]
     },
@@ -49,8 +73,8 @@
           "name": "React"
         },
         {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
+          "class": "devicon-express-original",
+          "name": "ExpressJS"
         }
       ]
     },
