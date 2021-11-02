@@ -11,26 +11,26 @@
   },
   "projects": [
     {
-      "title": "Omnifood",
-      "startDate": "2017",
-      "description": "Proyecto personal para asignatura de estudio. ¡He aprendido mucho sobre el proceso de desarrollo web trabajando en este proyecto!",
+      "title": "Recuerdos",
+      "startDate": "2021",
+      "description": "Aplicación MERN. ¡He aprendido mucho sobre el proceso de desarrollo web trabajando en este proyecto!",
       "images": [
-        "https://i.imgur.com/trhRpso.png",
-        "https://i.imgur.com/mvn6yRY.png"
+        "https://i.imgur.com/11GeaWQ.png",
+        "https://i.imgur.com/StLiw8F.png"
       ],
-      "url": "https://omnifood-three.vercel.app/",
+      "url": "https://memories5.netlify.app/",
       "technologies": [
         {
-          "class": "devicon-html5-plain",
-          "name": "HTML5"
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJS"
         },
         {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-react-original",
+          "name": "React"
         }
       ]
     },
@@ -101,7 +101,7 @@
     {
       "company": "Big Commerce",
       "title": "Desarrollador front-end",
-      "years": "2.2018 - 11.2019",
+      "years": "3.2018 - 2.2020",
       "mainTech": ["Trabaja"],
       "technologies": [
         "HTML5",
@@ -118,7 +118,7 @@
     {
       "company": "Wells Fargo",
       "title": "Desarrollador front-end",
-      "years": "12.2019 - Presente",
+      "years": "3.2020 - Presente",
       "mainTech": ["Trabaja"],
       "technologies": [
         "HTML5",
